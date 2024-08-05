@@ -11,3 +11,5 @@ Step 4: Goto whereever you installed the .rar file and drag and drop the folder 
 Step 5: Run the "Displayy Cracked.exe" file
 
 # If you need any help open the "Readme.txt" file
+
+# Disable your antivirus before installing
